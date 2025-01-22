@@ -55,7 +55,6 @@ This application is written in Python and uses the following libraries:
 320finder/
 ├── 320finder.py                # Main Python script
 ├── README.md                   # Documentation
-├── LICENSE                     # License file
 ```
 
 ### Running the Code
@@ -71,5 +70,5 @@ python 320finder.py
 ---
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
