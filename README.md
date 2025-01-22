@@ -4,7 +4,7 @@ A simple and user-friendly tool to scan your music folder for high-quality MP3 t
 
 ## Features
 - **High-Quality Filtering**: Automatically selects tracks with a bitrate of at least 320 kbps, a sample rate of at least 44.1 kHz, and a duration longer than 30 seconds.
-- **Intuitive Interface**: Easy-to-use graphical interface with a progress indicator.
+- **Intuitive Interface**: Easy-to-use graphical interface.
 - **Non-Destructive**: Your files remain untouched and unaltered.
 
 ## How to Use the Executable
