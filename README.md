@@ -3,7 +3,7 @@
 A simple and user-friendly tool to scan your music folder for high-quality MP3 tracks and create a Rekordbox-compatible `.m3u` playlist.
 
 ## Features
-- **High-Quality Filtering**: Automatically selects tracks with a bitrate of at least 256 kbps, a sample rate of at least 44.1 kHz, and a duration longer than 30 seconds.
+- **High-Quality Filtering**: Automatically selects tracks with a bitrate of at least 320 kbps, a sample rate of at least 44.1 kHz, and a duration longer than 30 seconds.
 - **Intuitive Interface**: Easy-to-use graphical interface with a progress indicator.
 - **Non-Destructive**: Your files remain untouched and unaltered.
 
